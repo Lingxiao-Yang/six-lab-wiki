@@ -11,8 +11,7 @@ Feel free to use the lab printers if you run out of printing credits on your M-C
   - Connected to lab Wi-Fi (**SIX_LAB**)
 
 - **Printer on the left:**  
-  - *(Add description here if applicable — e.g., label printer, backup unit, etc.)*
+
+  ![Lab Printers](../../assets/equipments/printer.jpg)
 
 ---
-
-![Lab Printers](../../assets/equipments/printer.jpg)
