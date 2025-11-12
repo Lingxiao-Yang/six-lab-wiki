@@ -14,6 +14,7 @@
     - [Blender](equipments/software/blender.md)
     - [Fusion 360](equipments/software/fusion360.md)
     - [SPSS](equipments/software/spss.md)
+    - [Others](equipments/software/others.md)
   - [Other Equipment](equipments/other_equipment/README.md)
     - [Server](equipments/other_equipment/server.md)
     - [Printer](equipments/other_equipment/printer.md)
