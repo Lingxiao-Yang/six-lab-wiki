@@ -21,6 +21,7 @@
     - [Wifi Routers](equipments/other_equipment/wifi_routers.md)
 - [Lab Life](lab_life/README.md)
   - [Seminar](lab_life/seminar.md)
+  - [Lab Spaces](lab_life/lab_spaces.md)
 - [Administration](administration/README.md)
   - [Business Trip (Conference)](administration/business_trip.md)
   - [IRB](administration/irb.md)
