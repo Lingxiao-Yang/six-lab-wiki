@@ -15,4 +15,4 @@ Feel free to use the lab printers if you run out of printing credits on your M-C
 
 ---
 
-![Lab Printers](../assets/equipment/printers.jpg)
+![Lab Printers](../../assets/equipment/printers.jpg)

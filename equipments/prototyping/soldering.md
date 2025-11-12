@@ -1,3 +1,3 @@
 # Soldering
 
-![Soldering setup](../assets/equipments/soldering.jpg)
+![Soldering setup](../../assets/equipments/soldering.jpg)
